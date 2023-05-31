@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Ephratria.Finance.Api.props" />
+</Project>
